@@ -1,0 +1,5 @@
+Aquest programa calcula els múltiples de 7 menors que un número donat.
+
+
+
+Afegit fitxer Reame.txt
