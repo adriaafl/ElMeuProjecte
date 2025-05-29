@@ -1,0 +1,14 @@
+C:\Users\DEKU.XKONX\ElMeuProjecte\bin\Debug\net9.0\ElMeuProjecte.exe
+C:\Users\DEKU.XKONX\ElMeuProjecte\bin\Debug\net9.0\ElMeuProjecte.deps.json
+C:\Users\DEKU.XKONX\ElMeuProjecte\bin\Debug\net9.0\ElMeuProjecte.runtimeconfig.json
+C:\Users\DEKU.XKONX\ElMeuProjecte\bin\Debug\net9.0\ElMeuProjecte.dll
+C:\Users\DEKU.XKONX\ElMeuProjecte\bin\Debug\net9.0\ElMeuProjecte.pdb
+C:\Users\DEKU.XKONX\ElMeuProjecte\obj\Debug\net9.0\ElMeuProjecte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEKU.XKONX\ElMeuProjecte\obj\Debug\net9.0\ElMeuProjecte.AssemblyInfoInputs.cache
+C:\Users\DEKU.XKONX\ElMeuProjecte\obj\Debug\net9.0\ElMeuProjecte.AssemblyInfo.cs
+C:\Users\DEKU.XKONX\ElMeuProjecte\obj\Debug\net9.0\ElMeuProjecte.csproj.CoreCompileInputs.cache
+C:\Users\DEKU.XKONX\ElMeuProjecte\obj\Debug\net9.0\ElMeuProjecte.dll
+C:\Users\DEKU.XKONX\ElMeuProjecte\obj\Debug\net9.0\refint\ElMeuProjecte.dll
+C:\Users\DEKU.XKONX\ElMeuProjecte\obj\Debug\net9.0\ElMeuProjecte.pdb
+C:\Users\DEKU.XKONX\ElMeuProjecte\obj\Debug\net9.0\ElMeuProjecte.genruntimeconfig.cache
+C:\Users\DEKU.XKONX\ElMeuProjecte\obj\Debug\net9.0\ref\ElMeuProjecte.dll
