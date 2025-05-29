@@ -14,7 +14,7 @@ class Program
             }
         }
 
-Console.WriteLine("Aquest canvi és des de VS Code.");
+Console.WriteLine("Hola desde github");
     }
 }
 
