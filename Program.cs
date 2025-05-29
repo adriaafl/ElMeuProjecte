@@ -14,7 +14,7 @@ class Program
             }
         }
 
-Console.WriteLine("Hola desde github");
+Console.WriteLine("Hola des de GitHub");
     }
 }
 
