@@ -14,7 +14,7 @@ class Program
             }
         }
 
-        Console.WriteLine("Hi ha " + contador + " nombres menors de 200 que són múltiples de 7.");
+Console.WriteLine("Hola món!");
     }
 }
 
