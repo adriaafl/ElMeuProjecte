@@ -13,7 +13,7 @@ class Program
                 contador++;
             }
         }
-
+// Missatge afegit des de GitHub
 Console.WriteLine("Hola món!");
     }
 }
