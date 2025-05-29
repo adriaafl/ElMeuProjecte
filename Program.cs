@@ -14,7 +14,7 @@ class Program
             }
         }
 
-Console.WriteLine("Hola món!");
+Console.WriteLine("Aquest canvi és des de VS Code.");
     }
 }
 
